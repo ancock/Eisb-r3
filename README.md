@@ -72,7 +72,7 @@
     <section id="lebensweise" class="intro">
         <h2>Lebensweise der Eisbären</h2>
         <p>Eisbären (Ursus maritimus) sind die größten an Land lebenden Raubtiere der Welt. Sie leben hauptsächlich in der Arktis und verbringen den Großteil ihres Lebens auf dem Meereis, wo sie Robben jagen.</p>
-        <img src="eisbaeren.jpg" alt="Eisbär auf dem Meereis">
+        <img src="https://cdn.pixabay.com/photo/2020/04/08/10/18/nature-5016781_1280.jpg" alt="Eisbär auf dem Meereis">
     </section>
 
     <section id="klimawandel">
